@@ -6,3 +6,5 @@ So the hard coded data path is only used for this mockup program so do not need 
 
 If need new location, then just change PersonViewModel.cs in the ViewModels folder, 
 setting the filePath to the new location.
+
+See WpfMockupApp8_RunningExample.jpg for its appearing when running.
