@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WpfMockupApp8/1.0.0": {
+        "runtime": {
+          "WpfMockupApp8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfMockupApp8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
