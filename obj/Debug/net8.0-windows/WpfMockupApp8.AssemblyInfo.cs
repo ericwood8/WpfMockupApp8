@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfMockupApp8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad18a0d85e1aab5426b8310530e7cb50b4a1f6df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b6aff150bd333f68c81c3085793fe9c4ca6ad1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfMockupApp8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfMockupApp8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
