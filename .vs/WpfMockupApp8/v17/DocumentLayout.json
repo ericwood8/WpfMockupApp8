@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\WpfMockupApp8\\WpfMockupApp8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{99DB56CE-5CDC-4216-AA13-1B3163245A9F}|WpfMockupApp8.csproj|c:\\wpfmockupapp8\\wpfmockupapp8\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DB56CE-5CDC-4216-AA13-1B3163245A9F}|WpfMockupApp8.csproj|solutionrelative:viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99DB56CE-5CDC-4216-AA13-1B3163245A9F}|WpfMockupApp8.csproj|c:\\wpfmockupapp8\\wpfmockupapp8\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99DB56CE-5CDC-4216-AA13-1B3163245A9F}|WpfMockupApp8.csproj|solutionrelative:viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DB56CE-5CDC-4216-AA13-1B3163245A9F}|WpfMockupApp8.csproj|c:\\wpfmockupapp8\\wpfmockupapp8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{99DB56CE-5CDC-4216-AA13-1B3163245A9F}|WpfMockupApp8.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DB56CE-5CDC-4216-AA13-1B3163245A9F}|WpfMockupApp8.csproj|c:\\wpfmockupapp8\\wpfmockupapp8\\utilities\\listutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DB56CE-5CDC-4216-AA13-1B3163245A9F}|WpfMockupApp8.csproj|solutionrelative:utilities\\listutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99DB56CE-5CDC-4216-AA13-1B3163245A9F}|WpfMockupApp8.csproj|c:\\wpfmockupapp8\\wpfmockupapp8\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99DB56CE-5CDC-4216-AA13-1B3163245A9F}|WpfMockupApp8.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99DB56CE-5CDC-4216-AA13-1B3163245A9F}|WpfMockupApp8.csproj|c:\\wpfmockupapp8\\wpfmockupapp8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{99DB56CE-5CDC-4216-AA13-1B3163245A9F}|WpfMockupApp8.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{99DB56CE-5CDC-4216-AA13-1B3163245A9F}|WpfMockupApp8.csproj|c:\\wpfmockupapp8\\wpfmockupapp8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DB56CE-5CDC-4216-AA13-1B3163245A9F}|WpfMockupApp8.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\WpfMockupApp8\\WpfMockupApp8\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\WpfMockupApp8\\WpfMockupApp8\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T22:01:36.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListUtils.cs",
+              "DocumentMoniker": "C:\\WpfMockupApp8\\WpfMockupApp8\\Utilities\\ListUtils.cs",
+              "RelativeDocumentMoniker": "Utilities\\ListUtils.cs",
+              "ToolTip": "C:\\WpfMockupApp8\\WpfMockupApp8\\Utilities\\ListUtils.cs",
+              "RelativeToolTip": "Utilities\\ListUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:41:46.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\WpfMockupApp8\\WpfMockupApp8\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\WpfMockupApp8\\WpfMockupApp8\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:41:18.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\WpfMockupApp8\\WpfMockupApp8\\Models\\Person.cs",
               "RelativeDocumentMoniker": "Models\\Person.cs",
@@ -34,17 +85,18 @@
               "RelativeToolTip": "Models\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:47:29.995Z"
+              "WhenOpened": "2024-10-01T20:47:29.995Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PersonViewModel.cs",
               "DocumentMoniker": "C:\\WpfMockupApp8\\WpfMockupApp8\\ViewModels\\PersonViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\PersonViewModel.cs",
               "ToolTip": "C:\\WpfMockupApp8\\WpfMockupApp8\\ViewModels\\PersonViewModel.cs",
               "RelativeToolTip": "ViewModels\\PersonViewModel.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowC4AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T20:24:06.265Z",
               "EditorCaption": ""
@@ -58,7 +110,8 @@
               "ToolTip": "C:\\WpfMockupApp8\\WpfMockupApp8\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-01T18:58:20.94Z"
+              "WhenOpened": "2024-10-01T18:58:20.94Z",
+              "EditorCaption": ""
             }
           ]
         }

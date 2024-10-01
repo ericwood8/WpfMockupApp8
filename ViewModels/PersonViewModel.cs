@@ -6,7 +6,7 @@ using WpfMockupApp8.Utilities;
 
 namespace WpfMockupApp8.ViewModels
 {
-    public class PersonViewModel : INotifyPropertyChanged
+    public class PersonViewModel : BaseViewModel, INotifyPropertyChanged
     {
         private ObservableCollection<Person> _persons;
         public ObservableCollection<Person> Persons
@@ -49,13 +49,6 @@ namespace WpfMockupApp8.ViewModels
             _ = new PersonCsvReader();
             Persons = PersonCsvReader.ReadCsvFile(filePath).ToObservableCollection();
             SelectedPerson = Persons.First();
-        }
-
-        public event PropertyChangedEventHandler? PropertyChanged;
-
-        protected virtual void OnPropertyChanged(string propertyName)
-        {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
 
         private class PersonCsvReader
