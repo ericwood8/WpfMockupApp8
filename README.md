@@ -1,4 +1,4 @@
-# WpfMockupApp8
+# WpfMockupApp9
  Wpf Mockup Program for .NET 9 . Not intended to be robust fully featured program.
 
  Purpose:  Just to show WPF in .NET 9 environment. 
